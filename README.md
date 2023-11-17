@@ -8,6 +8,7 @@ Este proyecto consiste en la implementacion de tres sensores para la medida de T
 Por medio de una red movil a la cual se podra conectar nuestro ESP32 se generara una pagina desde la cual podremos controlar el funcionamiento de nuestra aplicacion.
 
 # Conexiones 
+![Hc-Sr04](conexiones/HC.webp)
 
 
 
